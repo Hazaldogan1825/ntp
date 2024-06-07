@@ -1,0 +1,9 @@
+F:\ODEV\arraylist_uyg\arraylist_uyg\bin\Debug\arraylist_uyg.exe.config
+F:\ODEV\arraylist_uyg\arraylist_uyg\bin\Debug\arraylist_uyg.exe
+F:\ODEV\arraylist_uyg\arraylist_uyg\bin\Debug\arraylist_uyg.pdb
+F:\ODEV\arraylist_uyg\arraylist_uyg\obj\Debug\arraylist_uyg.csprojResolveAssemblyReference.cache
+F:\ODEV\arraylist_uyg\arraylist_uyg\obj\Debug\arraylist_uyg.Form1.resources
+F:\ODEV\arraylist_uyg\arraylist_uyg\obj\Debug\arraylist_uyg.Properties.Resources.resources
+F:\ODEV\arraylist_uyg\arraylist_uyg\obj\Debug\arraylist_uyg.csproj.GenerateResource.Cache
+F:\ODEV\arraylist_uyg\arraylist_uyg\obj\Debug\arraylist_uyg.exe
+F:\ODEV\arraylist_uyg\arraylist_uyg\obj\Debug\arraylist_uyg.pdb
